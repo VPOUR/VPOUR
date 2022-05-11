@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @Manu254rce
+Hi, I’m @Manu254rce
+
 - ⚡ I’m interested in Web Development and General Programming
 - 🐱‍💻I’m currently learning React, Typescript and Firebase
 - 🪐I’m looking to collaborate on any web based projects
