@@ -5,7 +5,10 @@
 - ⚡ I’m interested in Web Development and General Programming
 - 🐱‍💻I’m currently learning React, Typescript and Firebase, as well as the developer behind the CS project, ProgrammersKE
 - 🪐I’m looking to collaborate on any web-based projects
-- 🚀 How to reach me ...
+
+  # :rocket: How to reach me;
+  <img src='https://github.com/devicons/blob/master/icons/linkedin-original.svg' width="30">
+  <img src='https://github.com/devicons/blob/master/icons/twitter-original.svg' width="30">
 
 #
   # My Skills
@@ -29,6 +32,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="30">
   <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" width="30">
   <img src="https://user-images.githubusercontent.com/69007849/169610591-06f62e53-18b9-467c-8179-73fe60f654da.svg" width='30'>
+  <img src='https://github.com/devicons/devicon/blob/master/icons/threejs/threejs-original.svg' width='30'>
   </div>
   
   ### Tools and Other Resources
