@@ -6,11 +6,6 @@
 - 🐱‍💻I’m currently learning React, Typescript and Firebase, as well as the developer behind the CS project, ProgrammersKE
 - 🪐I’m looking to collaborate on any web-based projects
 
-  # :rocket: How to reach me;
-  <img src='https://github.com/devicons/blob/master/icons/linkedin-original.svg' width="30">
-  <img src='https://github.com/devicons/blob/master/icons/twitter-original.svg' width="30">
-
-#
   # My Skills
   
   ### Programming Languages:
