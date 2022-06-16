@@ -1,12 +1,12 @@
 ![LogoPage](https://user-images.githubusercontent.com/69007849/169592048-2cb636f0-7228-4356-ab3e-2d83bb2d9490.png)
 
-  # Hi, I’m @Manu254rce.
+# Hi, I’m @Manu254rce.
 
 - ⚡ I’m interested in Web Development and General Programming
 - 🐱‍💻I’m currently learning React, Typescript and Firebase, as well as the developer behind the CS project, ProgrammersKE
 - 🪐I’m looking to collaborate on any web-based projects
 
-  # My Skills
+# My Skills
   
   ### Programming Languages:
   <div>
@@ -42,6 +42,11 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/aftereffects/aftereffects-original.svg" width='30'/>
   </div>
 
+# Stats
+  
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Manu254rce&theme=dark&background=000000)](https://git.io/streak-stats)
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Manu254rce&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 <!---
 Manu254rce/Manu254rce is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
