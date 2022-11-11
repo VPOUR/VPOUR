@@ -2,8 +2,8 @@
 
 # Hi, I’m @Manu254rce.
 
-- ⚡ I’m interested in Web Development and General Programming
-- 🐱‍💻I’m currently learning React, Typescript and Firebase, as well as being the developer behind the CS project, ProgrammersKE
+- ⚡ I’m interested in many aspects of programming, including Web development,Data Science, Machine Learning, Mathematical Computation along with how these are applied in the fields of Physics and Astronomy
+- 🐱‍💻I’m currently learning React, Typescript and Firebase, as well as ML languages
 - 🪐I also love art and memes from Reddit
 
 # My Skills
