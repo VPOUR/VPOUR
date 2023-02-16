@@ -16,6 +16,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="30!">
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="30">
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="30">
+   <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" width="30">
+  
   </div>
   
   ### Frameworks and Libraries:
@@ -26,6 +28,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" width="30">
   <img src="https://user-images.githubusercontent.com/69007849/169610591-06f62e53-18b9-467c-8179-73fe60f654da.svg" width='30'>
   <img src='https://github.com/devicons/devicon/blob/master/icons/threejs/threejs-original.svg' width='30'>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" width="30">
   </div>
   
   ### Tools and Other Resources
@@ -33,6 +36,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" width="30"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" width="30"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg" width="30">
+   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="30">
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="30">
   <img src="https://user-images.githubusercontent.com/69007849/169611241-5d97d5d1-ced4-4c89-a75b-c8dd30e66542.svg" width="30">
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width="30"/>
