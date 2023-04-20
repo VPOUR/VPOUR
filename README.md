@@ -34,9 +34,10 @@
   ### Tools and Other Resources
   <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" width="30"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" width="30" >
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" width="30"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg" width="30">
-   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="30">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="30">
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="30">
   <img src="https://user-images.githubusercontent.com/69007849/169611241-5d97d5d1-ced4-4c89-a75b-c8dd30e66542.svg" width="30">
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width="30"/>
