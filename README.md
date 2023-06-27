@@ -2,7 +2,7 @@
 
 # Hi, I’m @Manu254rce.
 
-- ⚡ I’m interested in many aspects of programming, including Web development,Data Science, Machine Learning, Mathematical Computation along with how these are applied in the fields of Physics and Astronomy
+- ⚡ I’m interested in many aspects of programming, including Web development, Data Science, Machine Learning, and Mathematical Computation along with how these are applied in the fields of Physics and Astronomy
 - 🐱‍💻I’m currently learning React, Typescript and Firebase, as well as ML languages
 - 🪐I also love art and memes from Reddit
 
@@ -16,7 +16,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="30!">
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="30">
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="30">
-   <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" width="30">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" width="30">
+  <img src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_wolfram.svg" width="30"> 
   
   </div>
   
