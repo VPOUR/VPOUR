@@ -1,10 +1,8 @@
-![LogoPage](https://user-images.githubusercontent.com/69007849/169592048-2cb636f0-7228-4356-ab3e-2d83bb2d9490.png)
-
 # Hi, I’m @Manu254rce.
 
-- ⚡ I’m interested in many aspects of programming, including Web development, Data Science, Machine Learning, and Mathematical Computation along with how these are applied in the fields of Physics and Astronomy
-- 🐱‍💻I’m currently learning React, Typescript and Firebase, as well as ML languages
-- 🪐I also love art and memes from Reddit
+- ⚡ I’m interested in many aspects of programming... because... why not
+- 🐱‍💻 Currently learning MERN Full Stack Web Development, AI and low-level programming
+- 🪐 I also do art and memes
 
 # My Skills
   
@@ -12,10 +10,8 @@
   <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="30">
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" width="30">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" width="30">
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="30!">
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="30">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="30">
   <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" width="30">
   <img src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_wolfram.svg" width="30"> 
   
@@ -26,7 +22,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" width='30'>
   <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" width="30"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="30">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" width="30">
   <img src="https://user-images.githubusercontent.com/69007849/169610591-06f62e53-18b9-467c-8179-73fe60f654da.svg" width='30'>
   <img src='https://github.com/devicons/devicon/blob/master/icons/threejs/threejs-original.svg' width='30'>
   <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" width="30">
