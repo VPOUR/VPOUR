@@ -1,13 +1,13 @@
 # Hi, I’m @Manu254rce.
 
-- ⚡ I’m interested in many aspects of programming because why not?
+- ⚡ I’m interested in many aspects of programming because yeah?
 - 🐱‍💻 Currently learning MERN Full Stack Web Development, AI and low-level programming 
 - 🪐 I also do art and memes
 
 
   ## yearbook POV:
 
-  <i>"Mathematica is a better programming language for Computer Scientists than JavaScript"</i>
+  <i>"Real programming peaked with LISP everything unpeaked from there"</i>
 
 ## My Skills
   
