@@ -1,10 +1,15 @@
 # Hi, I’m @Manu254rce.
 
-- ⚡ I’m interested in many aspects of programming... because... why not
-- 🐱‍💻 Currently learning MERN Full Stack Web Development, AI and low-level programming
+- ⚡ I’m interested in many aspects of programming because why not?
+- 🐱‍💻 Currently learning MERN Full Stack Web Development, AI and low-level programming 
 - 🪐 I also do art and memes
 
-# My Skills
+
+  ## yearbook POV:
+
+  <i>"Mathematica is a better programming language for Computer Scientists than JavaScript"</i>
+
+## My Skills
   
   ### Programming Languages:
   <div>
@@ -41,7 +46,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/aftereffects/aftereffects-original.svg" width='30'/>
   </div>
 
-# Stats
+## Some cool stats I like
   
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Manu254rce&theme=dark&background=000000)](https://git.io/streak-stats)
   
