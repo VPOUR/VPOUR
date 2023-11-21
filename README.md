@@ -46,7 +46,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/aftereffects/aftereffects-original.svg" width='30'/>
   </div>
 
-## Some cool stats I like
+## Oh, look here are some cool stats I like
   
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Manu254rce&theme=dark&background=000000)](https://git.io/streak-stats)
   
