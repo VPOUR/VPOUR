@@ -2,7 +2,7 @@
 
 - ⚡ I’m interested in many aspects of programming because life is short and Miss Universe beauty contests marginalize interstellar minorities    
 - 🐱‍💻 Currently learning MERN Full Stack Web Development, AI and low-level programming 
-- 🪐 I also do art and memes 
+- 🪐 I also do art, animation and memes 
 
 
   ## yearbook POV:
