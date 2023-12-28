@@ -1,13 +1,39 @@
+```
+$ {shell@manu254rce} -> sudo neofetch
+
+                    (@@@@@(                              __  ___                 ___   ________ __               
+             %@@@@@@@@@@@@@@@@@@@(                      /  |/  /___ _____  __  _|__ \ / ____/ // / _____________ 
+          @@@@@@@@@@      @@@@@@@@@@@                  / /|_/ / __ `/ __ \/ / / /_/ //___ \/ // /_/ ___/ ___/ _ \
+       .@@@@@@@@@@.&         @@@@@@@@@@               / /  / / /_/ / / / / /_/ / __/____/ /__  __/ /  / /__/  __/
+      @@@@@@@@@@@@,       . @@@@@@@@@@@@@            /_/  /_/\__,_/_/ /_/\__,_/____/_____/  /_/ /_/   \___/\___/
+     @@@@@@/   @@@ #,@   .  @@@@@@@@@@@@@@          ______________________________________________________________
+    @@@@&    @@@@@@      , .@@@@@@@@@@@@@@@         Full Name : Emmanuel. R . Lamira
+   (@@@@@@@%       .,@&@@%@@@@@@@@@@@@@@@@@         Gender : Male
+   @@@@@@@@@@@@#      @. *     @@@@@@@@@@@@         Email : straussmoabit@gmail.com
+   *@@@@@@@@@@@@@@,    / ,     &@@@@@@@@@@@                 emmanuellamira200120@gmail.com
+    @@@@@@@@@@@@@@@            #@%@@@@@@@@@         LinkedIn : https://www.linkedin.com/in/manu254rce
+     @@@@@@@@@@@@@@          @/  @@@@@@@@@ 
+      @@@@@@@@@@@@@          @@@@@@@@@@@@           Currently running on version 22.0.
+        @@@@@@@@@@@          @@@@@@@@@@             Annual rolling releases every 27/11 
+          @@@@@@@@%          @@@@@@@%
+             .@@@@            @@@
+
+#*********************************************************************************************************************#
+#                                                    ><><><><><><><                                                   #
+#                                                     yearbook POV:                                                   #
+#                                                    ><><><><><><><                                                   #
+#                                                                                                                     #
+#                           "Real programming peaked with LISP everything unpeaked from there"                        #
+#*********************************************************************************************************************#
+
+$ {shell@manu254rce} -> sudo neofetch _
+```
 # Hi, I’m @Manu254rce.
 
-- ⚡ I’m interested in many aspects of programming because life is short and Miss Universe beauty contests marginalize interstellar minorities    
+- ⚡ I’m interested in many aspects of programming because life is short and
+     Miss Universe beauty contests marginalize interstellar minorities    
 - 🐱‍💻 Currently learning MERN Full Stack Web Development, AI and low-level programming 
 - 🪐 I also do art, animation and memes 
-
-
-  ## yearbook POV:
-
-  <i>"Real programming peaked with LISP everything unpeaked from there"</i>
 
 ## My Skills
   
@@ -57,4 +83,3 @@
 Manu254rce/Manu254rce is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
