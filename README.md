@@ -13,7 +13,7 @@ $ {shell@manu254rce} -> sudo neofetch
    *@@@@@@@@@@@@@@,    / ,     &@@@@@@@@@@@                 emmanuellamira200120@daystar.ac.ke
     @@@@@@@@@@@@@@@            #@%@@@@@@@@@         LinkedIn : https://www.linkedin.com/in/manu254rce
      @@@@@@@@@@@@@@          @/  @@@@@@@@@ 
-      @@@@@@@@@@@@@          @@@@@@@@@@@@           Currently running on stable version 22.0.0.
+      @@@@@@@@@@@@@          @@@@@@@@@@@@           Currently running on stable version 22.0.1.
         @@@@@@@@@@@          @@@@@@@@@@             Annual rolling releases every 27/11
           @@@@@@@@%          @@@@@@@%              
              .@@@@            @@@                                                                               ░R ▓G ▒B
