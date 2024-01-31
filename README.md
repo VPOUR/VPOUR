@@ -32,7 +32,7 @@ $ {shell@manu254rce} -> _
 
 - ⚡ I’m interested in many aspects of programming because life is short and
      Miss Universe beauty contests marginalize interstellar minorities    
-- 🐱‍💻 Currently learning MERN Full Stack Web Development, AI and low-level programming 
+- 🖥️ The goal is to be at the nexus of Computer engineerin and Scientific research
 - 🪐 I also do art, animation and memes 
 
 ## My Skills
