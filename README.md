@@ -33,7 +33,7 @@ $ {shell@manu254rce} -> _
 - ⚡ I’m interested in many aspects of programming because life is short and
      Miss Universe beauty contests marginalize interstellar minorities    
 - 🖥️ The goal is to be at the nexus of Computer engineerin and Scientific research
-- 🪐 I also do art, animation and memes 
+- 🪐 I also do art, animation and meme- DON' JUDGE ME!!!  
 
 ## My Skills
   
