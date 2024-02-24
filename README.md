@@ -51,7 +51,7 @@ $ {shell@manu254rce} -> _
   ### Frameworks and Libraries:
   <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" width='30'>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" width="30"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" width="30"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="30">
   <img src="https://user-images.githubusercontent.com/69007849/169610591-06f62e53-18b9-467c-8179-73fe60f654da.svg" width='30'>
   <img src='https://github.com/devicons/devicon/blob/master/icons/threejs/threejs-original.svg' width='30'>
