@@ -13,7 +13,7 @@ $ {shell@manu254rce} -> sudo neofetch
    *@@@@@@@@@@@@@@,    / ,     &@@@@@@@@@@@                 emmanuellamira200120@daystar.ac.ke
     @@@@@@@@@@@@@@@            #@%@@@@@@@@@         LinkedIn : https://www.linkedin.com/in/manu254rce
      @@@@@@@@@@@@@@          @/  @@@@@@@@@ 
-      @@@@@@@@@@@@@          @@@@@@@@@@@@           Currently running on stable version 22.0.1.
+      @@@@@@@@@@@@@          @@@@@@@@@@@@           Currently running on stable version 22.0.10.
         @@@@@@@@@@@          @@@@@@@@@@             Annual rolling releases every 27/11
           @@@@@@@@%          @@@@@@@%              
              .@@@@            @@@                                                                               ░R ▓G ▒B
@@ -43,8 +43,8 @@ $ {shell@manu254rce} -> _
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" width="30">
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="30!">
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="30">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" width="30">
-  <img src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_wolfram.svg" width="30"> 
+<!--   <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" width="30"> -->
+<!--   <img src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_wolfram.svg" width="30">  -->
   
   </div>
   
@@ -56,7 +56,7 @@ $ {shell@manu254rce} -> _
   <img src="https://user-images.githubusercontent.com/69007849/169610591-06f62e53-18b9-467c-8179-73fe60f654da.svg" width='30'>
   <img src='https://github.com/devicons/devicon/blob/master/icons/threejs/threejs-original.svg' width='30'>
   <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" width="30">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" width="30">  
+<!--   <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" width="30">   -->
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" width="30">  
   </div>
   
