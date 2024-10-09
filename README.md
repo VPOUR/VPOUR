@@ -10,7 +10,7 @@ $ {shell@manu254rce} -> sudo neofetch
     @@@@&    @@@@@@      , .@@@@@@@@@@@@@@@         Full Name : Emmanuel. R . Lamira  
    (@@@@@@@%       .,@&@@%@@@@@@@@@@@@@@@@@         Gender : Er, Male???(I gue... I guess??) 
    @@@@@@@@@@@@#      @. *     @@@@@@@@@@@@         Email : straussmoabit@gmail.com
-   *@@@@@@@@@@@@@@,    / ,     &@@@@@@@@@@@                 emmanuellamira200120@daystar.ac.ke
+   *@@@@@@@@@@@@@@,    / ,     &@@@@@@@@@@@                 emmanuellamira20@outlook.com
     @@@@@@@@@@@@@@@            #@%@@@@@@@@@         LinkedIn : https://www.linkedin.com/in/manu254rce
      @@@@@@@@@@@@@@          @/  @@@@@@@@@ 
       @@@@@@@@@@@@@          @@@@@@@@@@@@           Currently running on stable version 22.0.10.
