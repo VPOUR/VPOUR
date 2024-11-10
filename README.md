@@ -74,6 +74,7 @@ $ {shell@manu254rce} -> _
   <img src="https://github.com/devicons/devicon/blob/master/icons/aftereffects/aftereffects-original.svg" width='30'/>
   </div>
 
+<!---
 ## Oh, look here are some cool stats I like
   
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Manu254rce&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
