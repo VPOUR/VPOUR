@@ -62,7 +62,7 @@ $ {shell@manu254rce} -> _
   
   ### Tools and Other Resources
   <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" width="30"/>
+<!--   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" width="30"/> -->
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" width="30" >
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" width="30"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg" width="30">
