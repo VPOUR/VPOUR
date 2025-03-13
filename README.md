@@ -28,12 +28,12 @@ $ {shell@manu254rce} -> sudo neofetch
 
 $ {shell@manu254rce} -> _
 ```
-# Hi, I’m @Manu254rce.
+# Supp...
 
 - ⚡ I’m interested in many aspects of programming because life is short and
      Miss Universe beauty contests marginalize interstellar minorities    
-- 🖥️ The goal is to be at the nexus of Computer engineerin and Scientific research
-- 🪐 I also do art, animation and memes... DON'T JUDGE ME!!!  
+- 🖥️ The goal is to be at the nexus of Computer engineering and Scientific research
+- 🪐 I also do art, animation and memes...   
 
 ## My Skills
   
