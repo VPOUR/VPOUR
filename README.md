@@ -11,9 +11,9 @@ $ {shell@manu254rce} -> sudo neofetch
    (@@@@@@@%       .,@&@@%@@@@@@@@@@@@@@@@@         Gender : Er, Male???(I gue... I guess??) 
    @@@@@@@@@@@@#      @. *     @@@@@@@@@@@@         Email : straussmoabit@gmail.com
    *@@@@@@@@@@@@@@,    / ,     &@@@@@@@@@@@                 emmanuellamira20@outlook.com
-    @@@@@@@@@@@@@@@            #@%@@@@@@@@@         LinkedIn : https://www.linkedin.com/in/manu254rce
+    @@@@@@@@@@@@@@@            #@%@@@@@@@@@         
      @@@@@@@@@@@@@@          @/  @@@@@@@@@ 
-      @@@@@@@@@@@@@          @@@@@@@@@@@@           Currently running on stable version 22.0.10.
+      @@@@@@@@@@@@@          @@@@@@@@@@@@           Currently running on stable version 23.0.05.
         @@@@@@@@@@@          @@@@@@@@@@             Annual rolling releases every 27/11
           @@@@@@@@%          @@@@@@@%              
              .@@@@            @@@                                                                               ░R ▓G ▒B
@@ -23,7 +23,7 @@ $ {shell@manu254rce} -> sudo neofetch
 #                                                     yearbook POV:                                                   #
 #                                                    ><><><><><><><                                                   #
 #                                                                                                                     #
-#                           "Real programming peaked with LISP everything unpeaked from there"                        #
+#                            "Quit being a wussie and learn Assembly like a grown man ffs..."                         #
 #*********************************************************************************************************************#
 
 $ {shell@manu254rce} -> _
@@ -33,7 +33,7 @@ $ {shell@manu254rce} -> _
 - ⚡ I’m interested in many aspects of programming because life is short and
      Miss Universe beauty contests marginalize interstellar minorities    
 - 🖥️ The goal is to be at the nexus of Computer engineering and Scientific research
-- 🪐 I also do art, animation and memes...   
+- 🎨 I also do art, animation, memes and uuh watching doccies about supercell storms...   
 
 ## My Skills
   
@@ -56,6 +56,7 @@ $ {shell@manu254rce} -> _
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="30">
   <img src="https://user-images.githubusercontent.com/69007849/169610591-06f62e53-18b9-467c-8179-73fe60f654da.svg" width='30'>
   <img src='https://github.com/devicons/devicon/blob/master/icons/threejs/threejs-original.svg' width='30'>
+  <img src='https://events.umich.edu/media/cache/event_large_lightbox/media/attachments/2024/03/event_119956_original-1.png' width='30'>
 <!--   <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" width="30"> -->
 <!--   <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" width="30">   -->
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" width="30">  
