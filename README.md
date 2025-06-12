@@ -76,7 +76,7 @@ $ {shell@manu254rce} -> _
   <img src="https://github.com/devicons/devicon/blob/master/icons/aftereffects/aftereffects-original.svg" width='30'/>
   </div>
 
-## *ooh nothing to see here lol, just uh... my Github RP :)*
+#### *ooh nothing to see here lol, just uh... my Github RP :)*
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31ugynm3kksoe6fignr7cuqnampi&cover_image=true&theme=natemoo-re&show_offline=false&background_color=000000&interchange=false&bar_color=8c00ff&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
 
