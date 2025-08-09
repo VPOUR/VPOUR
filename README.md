@@ -1,5 +1,5 @@
  ```asm
-$ {shell@manu254rce} -> sudo neofetch
+$ {shell@Z'PHYR} -> sudo neofetch
 
                     (@@@@@(                         ░▒▓████████▓▒  ░▒▓  ░▒▓███████▓▒░░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░▒▓███████▓▒░                 
              %@@@@@@@@@@@@@@@@@@@(                         ░▒▓█▓▒       ░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░
@@ -23,10 +23,10 @@ $ {shell@manu254rce} -> sudo neofetch
       #                                                     yearbook POV:                                                   #
       #                                                    ><><><><><><><                                                   #
       #                                                                                                                     #
-      #                            "Quit being a wussie and learn Assembly like a grown man ffs..."                         #
+      #                          "Quit being a wussie and learn Assembly like a grown gobshite ffs..."                      #
       #*********************************************************************************************************************#
 
-$ {shell@manu254rce} -> _
+$ {shell@Z'PHYR} -> _
 ```
 # Supp...
 
@@ -35,7 +35,7 @@ $ {shell@manu254rce} -> _
 - 🖥️ The goal is to be at the nexus of Computer engineering and Scientific research
 - 🌅 I also do art, animation, and retrowave...   
 
-## My Skills
+## Skills... that I'm most probably good at
   
   ### Programming Languages:
   <div>
@@ -49,7 +49,7 @@ $ {shell@manu254rce} -> _
   
   </div>
   
-  ### Frameworks and Libraries:
+  ### Frameworks and Libraries
   <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" width='30'>
   <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" width="30"/>
